@@ -37,6 +37,7 @@ const History = (props) => {
       setAll(allClicks.concat('R'))
       setRight(right + 1)
     }
+    
   
     return (
       <div>
